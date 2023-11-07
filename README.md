@@ -1,5 +1,6 @@
-# PCA-Simple-warp-divergence---Implement-Sum-Reduction.
-
+### Exp No: 03
+### Date: 13-09-2023
+# <p align="center">Simple-warp-divergence---Implement-Sum-Reduction</p>
 ## AIM
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
 
